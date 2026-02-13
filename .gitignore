@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Dataset & generated files
+data/
+dataset/
+pokemon_model.h5
+*.png
+
+# Kaggle
+kaggle.json
+
+# OS
+.DS_Store
